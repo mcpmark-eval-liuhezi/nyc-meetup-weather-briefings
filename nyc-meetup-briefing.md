@@ -1,16 +1,16 @@
 # NYC Rooftop Meetup — Weather Go/No-Go Briefing
 
 **Venue (pinned):** 40.7128, -74.0060 — near City Hall, Manhattan
-** coordinates checked:** 40.7128, -74.0060
-**Local time at pin:** Sun, Nov 1, 2026, 7:24 AM EDT
-**Briefing generated:** Sun, Nov 1, 2026, 7:30 AM local — fresh pre-travel go/no-go update
+**Coordinates checked:** 40.7128, -74.0060
+**Local time at pin:** Sun, Nov 1, 2026, 7:28 AM EDT
+**Briefing generated:** Sun, Nov 1, 2026, ~7:30 AM local — fresh pre-travel go/no-go update
 **Forecast issued:** Nov 1, 2026, 6:18 AM local
 
 ---
 
 ## Verdict: **GO** ✅
 
-Clear, dry, and mild for the near-term window. Today (Sun Nov 1) is mostly sunny with a high of 61°F and only a 1% rain chance; Monday 66°F (1%), Tuesday 68°F (1%), and Wednesday 69°F (1%) all stay essentially dry and pleasant. The next meaningful rain signal arrives **Thursday** (35% chance of light rain after 7 AM, 59–60% overnight) — well beyond the immediate decision window. **Friday (70°F, 64% rain) and Saturday (66°F, 50% rain) carry real rain risk**, so avoid those if the event can fall on Sunday–Wednesday.
+Clear, dry, and mild for the near-term window. Today (Sun Nov 1) is mostly sunny with a high of 61°F and only a 1% rain chance; Monday 66°F (1%), Tuesday 68°F (1%), and Wednesday 69°F (1%) all stay essentially dry and pleasant. The next meaningful rain signal arrives **Thursday** (35% chance of light rain after 7 AM, 59–60% overnight) — well beyond the immediate decision window. **Friday (70°F, 64% rain) and Saturday (66°F, 50% rain) carry real rain risk**, so avoid those if the event can fall on Sunday–Wednesday. Sunday remains the best weekend day (61°F, 1%) if constrained to Sat/Sun.
 
 ---
 
@@ -19,8 +19,13 @@ Clear, dry, and mild for the near-term window. Today (Sun Nov 1) is mostly sunny
 **Result: Nothing found about the rooftop meetup.** No date/time shuffles, no venue changes, and no cancellation or rescheduling chatter anywhere in the workspace.
 
 **Method:**
-- Full-text workspace searches for "rooftop", "rooftop meetup", "meetup", "weather", "City Hall", "venue", "cancel"/"cancelled"/"cancellation", and "event" — all returned zero relevant matches for meetup coordination.
-- Direct read of the active channels: #所有-mcp-atlas (main), #社交, #新频道, #all-dumle-servers, #gaming-suggestions, #tv-show-suggestions, #new-channel.
+- Full-text workspace searches for "rooftop", "meetup", "weather", "City Hall", "venue", "rain", "weekend", and "cancel"/"cancelled"/"cancellation" — all returned zero relevant matches for meetup coordination.
+- Direct read of channel histories for the visible channels: #所有-mcp-atlas (main), #社交, #新频道, #new-channel, #gaming-suggestions, #tv-show-suggestions, #all-dumle-servers.
+  - **#所有-mcp-atlas (main):** Only linyue ma's automated weekly signal digest posts (deploy/incident/bug/release/launch keyword counts) — no team discussion.
+  - **#社交:** A question about an Enrollment Report (ER) ticket for notification-service not sending email — unrelated to the meetup.
+  - **#gaming-suggestions:** Video game chatter (Apex Legends, NBA 2K, FIFA, Super Mario 64, Tony Hawk).
+  - **#tv-show-suggestions:** Anime chatter (Samurai Champloo, JoJo, One Punch Man, Naruto, Death Note, One Piece, DBZ).
+  - **#new-channel, #all-dumle-servers:** Quiet; mainly join/leave and channel privacy toggles.
 - A workspace-wide thread check confirms no threaded replies exist in any channel, so there was nothing to pull replies from on any thread.
 - The only event-adjacent content found anywhere is unrelated: an MCP project-status/workspace coordination brief in the main channel, an Enrollment Report ticket ping in #社交, and entertainment-channel coordination briefs — none mention the meetup.
 
@@ -37,7 +42,7 @@ Clear, dry, and mild for the near-term window. Today (Sun Nov 1) is mostly sunny
 - **Wind:** 12 mph from 10° (N)
 - **Pressure:** 30.55 inHg
 - **Visibility:** 10.0 miles
-- **Local time of reading:** 11/1/2026, 5:51 AM local (1h 33m ago)
+- **Local time of reading:** 11/1/2026, 5:51 AM local (1h 37m ago)
 
 ---
 
@@ -110,15 +115,15 @@ Clear, dry, and mild for the near-term window. Today (Sun Nov 1) is mostly sunny
 | Station | Station ID | Distance | Elevation | Latest Report |
 |---|---|---|---|---|
 | New York City, Central Park | **KNYC** | 5.3 mi | 154 ft | 11/1/2026 5:51 AM — 45.0°F |
-| New York, La Guardia Airport | **KLGA** | 8.3 mi | 20 ft | 11/1/2026 6:55 AM — 48.2°F |
-| Newark, Newark International Airport | **KEWR** | 8.5 mi | 16 ft | 11/1/2026 6:55 AM — 44.6°F |
-| Teterboro, Teterboro Airport | **KTEB** | 10.2 mi | 7 ft | 11/1/2026 6:55 AM — 39.2°F |
-| New York, Kennedy International Airport | **KJFK** | 14.1 mi | 10 ft | 11/1/2026 6:55 AM — 46.4°F |
-| Caldwell, Essex County Airport | KCDW | 18.0 mi | 171 ft | 11/1/2026 6:55 AM — 33.8°F |
-| Morristown Airport | KMMU | 21.9 mi | 187 ft | 11/1/2026 5:35 AM — (no temp) |
-| White Plains - Westchester County Airport | KHPN | 28.9 mi | 367 ft | 11/1/2026 6:55 AM — 37.4°F |
-| Farmingdale - Republic Airport | KFRG | 31.3 mi | 72 ft | 11/1/2026 6:55 AM — 41.0°F |
-| Somerville, Somerset Airport | KSMQ | 34.9 mi | 105 ft | 11/1/2026 6:55 AM — 32.0°F |
+| New York, La Guardia Airport | **KLGA** | 8.3 mi | 20 ft | 11/2026 6:55 AM — 48.2°F |
+| Newark, Newark International Airport | **KEWR** | 8.5 mi | 16 ft | 11/2026 6:55 AM — 44.6°F |
+| Teterboro, Teterboro Airport | **KTEB** | 10.2 mi | 7 ft | 11/2026 6:55 AM — 39.2°F |
+| New York, Kennedy International Airport | **KJFK** | 14.1 mi | 10 ft | 11/2026 6:55 AM — 46.4°F |
+| Caldwell, Essex County Airport | KCDW | 18.0 mi | 171 ft | 11/2026 6:55 AM — 33.8°F |
+| Morristown Airport | KMMU | 21.9 mi | 187 ft | 11/2026 5:35 AM — (no temp) |
+| White Plains - Westchester County Airport | KHPN | 28.9 mi | 367 ft | 11/2026 6:55 AM — 37.4°F |
+| Farmingdale - Republic Airport | KFRG | 31.3 mi | 72 ft | 11/2026 6:55 AM — 41.0°F |
+| Somerville, Somerset Airport | KSMQ | 34.9 mi | 105 ft | 11/2026 6:55 AM — 32.0°F |
 
 **Primary reference: KNYC (Central Park)** — the closest station and the station backing the current-conditions reading above.
 
@@ -132,4 +137,4 @@ Clear, dry, and mild for the near-term window. Today (Sun Nov 1) is mostly sunny
 4. **Wind:** Lightest on Sunday–Wednesday (5–12 mph). Friday–Saturday gustier (10–12 mph SE/SW) with rain — not ideal for an open rooftop.
 5. **Slack:** No documented changes to the plan; venue and dates stand per available evidence — one direct ping to co-organizers recommended before departure.
 
-**Bottom line: GO for the near-term window (Sun–Wed). If the event must fall on the weekend, Sunday is the best day (61°F, 1% rain); Friday and Saturday carry meaningful rain risk (64% and 50%).**
+**Bottom line: GO for Sunday–Wednesday. If the event is constrained to the weekend, Sunday (Nov 1) is the best day (61°F, 1%), with Saturday (Nov 7) a wet backup at 50% and Friday (Nov 6) the wettest at 64%.**
