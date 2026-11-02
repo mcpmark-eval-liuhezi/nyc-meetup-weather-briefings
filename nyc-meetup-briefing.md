@@ -1,19 +1,19 @@
-# NYC Rooftop Meetup — Weather Go/No-Go Briefing (Updated)
+# NYC Rooftop Meetup — Weather Go/No-Go Briefing
 
 **Venue (pinned):** 40.7128, -74.0060 — near City Hall, Manhattan
 **Coordinates checked:** 40.7128, -74.0060
-**Local time at pin:** Mon, Nov 2, 2026, 12:20 PM EDT
-**Briefing generated:** Mon, Nov 2, 2026, 12:20 PM local
+**Local time at pin:** Mon, Nov 2, 2026, 12:25 PM EDT
+**Briefing generated:** Mon, Nov 2, 2026, 12:25 PM local
 **Forecast issued:** Nov 2, 2026, 11:36 AM local
 
 ---
 
-## Verdict: **GO** ✅ (for Mon Nov 2 and Tue Nov 3; weekend yesотв... see summary)
+## Verdict: **GO** ✅
 
-**GO for the near-term window (today Mon Nov 2 and tomorrow Tue Nov 3):**
+**GO for the near-term window (Mon Nov 2 and Tue Nov 3):**
 - **Today (Mon Nov 2):** Sunny, high near 66°F (falling to 65 in afternoon), 1% rain chance, wind 5–8 mph SW. Evening 6–7 PM mostly clear, 64–63°F, 1–2% rain.
 - **Tonight (Mon Nov 2 Night):** Mostly clear, low around 52°F, 2% rain, 5–9 mph SW.
-- **Tuesday Nov 3:** Mostly sunny, high near 67°F (falling to ~65 in afternoon), 2% rain chance, wind 5–8 mph SW. Tonight low around 56°F, partly cloudy.
+- **Tuesday Nov 3 (travel day):** Mostly sunny, high near 67°F (falling to ~65 in afternoon), 2% rain chance, wind 5–8 mph SW. Tonight low around 56°F, partly cloudy.
 - **Weekend:** Rain arrives **Thursday** (chance of rain after 7 AM, 50%; overnight 73%). Friday 70°F with 73% rain likely. Saturday 67°F, 47% chance light rain (22% slight chance before 1 AM). **Sunday is the best weekend day: 64°F, mostly sunny, 9% rain chance.**
 
 ---
@@ -44,7 +44,7 @@
 - **Humidity:** 44%
 - **Pressure:** 30.43 inHg
 - **Visibility:** 10.0 miles
-- **Local time of reading:** 11/2/2026, 9:51 AM local (2h 29m ago)
+- **Local time of reading:** 11/2/2026, 9:51 AM local (2h 34m ago)
 
 ---
 
@@ -131,11 +131,12 @@
 
 ---
 
-## Go/No-Go Rationale
+## Go/No-Go Summary
 
-1. **Precipitation:** Today and tomorrow show 1–2% rain chances with sunny/mostly sunny conditions and comfortable temperatures (66–67°F daytime, 52–56°F overnight). Thursday onward sees 50%+ chances, making Mon–Wed (and Sunday if weekend-constrained) the reliable dry windows.
-2. **Temperature:** Rooftop-friendly throughout the near-term window — 52–69°F range, light south/southwest winds (5–12 mph).
-3. **Alerts:** None active for the pin location.
-4. **Slack:** No conflicting coordination found; venue and date stand per available evidence, but a direct co-organizer ping is recommended before traveling.
-
-**Overall verdict: GO** for the near-term (Mon–Wed); if the event is limited to the weekend, **Sunday Nov 8 (64°F, mostly sunny, 9%)** is the best day, while Fri–Sat carry 47–73% rain chances.
+- **Current temperature:** 59.0°F (15.0°C), Clear
+- **Today:** Sunny, 66°F high, 1% rain — GO
+- **Tomorrow (Tue Nov 3):** Mostly sunny, 67°F high, 2% rain — GO
+- **Alerts:** None
+- **Best weekend day:** Sunday Nov 8, 64°F mostly sunny, 9% rain
+- **Slack:** Nothing found — no shuffles, no venue changes, no cancellations
+- **Verdict: GO** for Mon–Tue and Sunday; if Fri–Sat is required, consider postponing to Sunday.
